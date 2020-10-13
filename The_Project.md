@@ -13,6 +13,7 @@ layout: default
 ###“This wants to be outside the cage of the age” 
 –Mission of Burma from the song “This is Not a Photograph” (1981)
 
+
 ##How did Justin and I come to choose this type of Data and Visualization?
 We started this process by branching out and looking for data that was relevant or interesting to us.  We looked at Statistics Canada and Comic Book charts. Ultimately, while the information was interesting, we found that it was difficult to find data that was formatted to fit RAW’s needs.
 
@@ -28,7 +29,7 @@ In trying to gather data from this I realized that I had to be introspective to 
 When trying to create the graph, I realized that a lot more information could be gained by including dates into the data collection to see what was important during certain times in my life.  For example, “Photos of Pets” takes up the bulk of my photos but if I had organized by date you would have seen that this only happened after Feb 2015 when I got my puppy.  Before that “Photos of Family” had the most photos followed closely by “Photos of Friends”.  
 
 #Visualization of Data#
-![this is an image](http://i.imgur.com/pSadi61.jpg?2) ![this is an image](http://i.imgur.com/l1sy3WU.png?2)
+![this is an image](http://i.imgur.com/pSadi61.jpg?2) ![this is an image](http://i.imgur.com/l1sy3WU.png?2)  
 
 ##Categories
 ###Alex's Photo Categories
